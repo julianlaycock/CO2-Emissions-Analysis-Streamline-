@@ -48,7 +48,9 @@ For the selected country and period, the app shows:
 
 ---
 
-## 📦 Installation Clone the repository: ```bash git clone git@github.com:julianlaycock/CO2-Emissions-Analysis-Streamline-.git cd CO2-Emissions-Analysis-Streamline-
+## 📦 Installation Clone the repository: 
+
+```bash git clone git@github.com:julianlaycock/CO2-Emissions-Analysis-Streamline-.git cd CO2-Emissions-Analysis-Streamline-
 
 ---
 
