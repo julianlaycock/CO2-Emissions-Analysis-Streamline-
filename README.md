@@ -13,7 +13,15 @@ The app lets you:
 
 ---
 
-## 🔧 Features
+
+## 📦 Installation Clone the repository: 
+
+```bash git clone git@github.com:julianlaycock/CO2-Emissions-Analysis-Streamline-.git cd CO2-Emissions-Analysis-Streamline-
+
+---
+
+
+## 🔧 Features  
 
 **1. Interactive controls**
 
@@ -45,12 +53,6 @@ For the selected country and period, the app shows:
 
 - Filtered data table for the selected country and period  
 - **Download button** to export the filtered data as a CSV file
-
----
-
-## 📦 Installation Clone the repository: 
-
-```bash git clone git@github.com:julianlaycock/CO2-Emissions-Analysis-Streamline-.git cd CO2-Emissions-Analysis-Streamline-
 
 ---
 
