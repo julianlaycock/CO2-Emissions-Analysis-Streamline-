@@ -55,3 +55,5 @@ For the selected country and period, the app shows:
 ├── app.py               # Streamlit app
 ├── co2_emissions.csv    # Source data (CO₂ emissions per capita)
 └── README.md            # Project documentation
+
+## 📦 Installation Clone the repository: ```bash git clone git@github.com:julianlaycock/CO2-Emissions-Analysis-Streamline-.git cd CO2-Emissions-Analysis-Streamline-
